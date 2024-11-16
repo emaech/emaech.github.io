@@ -1,0 +1,61 @@
+
+
+	body {
+		font-family: 'Roboto', sans-serif;
+	}
+	
+	h1 {
+		font-family: 'Alegreya Sans SC', sans-serif;
+	}
+	
+	.border2 {
+		border-width:2px !important;
+	}
+	
+	.bg-black {
+		background-color: #222222 !important;
+		border: 1px solid #222222  !important;
+		color: #FFFFFF !important;
+	}
+	
+	a {
+		color: #FFFFFF !important;
+		text-decoration:none !important;
+	}
+
+	
+	.alinkblack {
+		color: #000000 !important;
+		text-decoration: underline !important;
+	}
+	
+	.alinkblack:hover {
+		color: FireBrick !important;
+		text-decoration: underline !important;
+	}
+
+	a:hover {
+		color: Gold !important;
+		text-decoration:none !important;
+	}
+	
+	
+	.max200 {
+		max-width:200px !important;
+	}
+	
+	
+	.container {
+	  position: relative;
+	}
+
+	.text-block {
+	  position: absolute;
+	  top: 20px;
+	  right: 20px;
+	  background-color: yellow;
+	  color: black;
+	  padding-left: 20px;
+	  padding-right: 20px;
+	  font-family: 'Alegreya Sans SC', sans-serif;
+	}
